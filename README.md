@@ -2,7 +2,7 @@
 
 --> Oioi, eu sou o @Phrdavis! 
 
---> Atualmente sou desenvolvedor front-end junior de Python
+--> Atualmente sou desenvolvedor front-end junior de Python #Tkinter
 
 --> Tenho interesse em me tornar um desenvolvedor mobile #Swift #Kotlin
 
