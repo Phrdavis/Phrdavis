@@ -1,11 +1,13 @@
 
 
---> Oioi, eu sou o @Phrdavis! 
+## <h1 align='center'>Oioi, eu sou o @Phrdavis! 🖖</h1>
 
---> Atualmente sou desenvolvedor front-end junior de Python #Tkinter 
+- 💻 Atualmente sou desenvolvedor front-end junior de Python #Tkinter <img align="center" alt="Rosa-Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
---> Tenho interesse em me tornar um desenvolvedor mobile #Swift #Kotlin
+- 📲 Tenho interesse em me tornar um desenvolvedor mobile #Swift #Kotlin <img align="center" alt="Rosa-Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">  <img align="center" alt="Rosa-Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
 
---> Estudante de Engenharia de Software :)
+- ✏️ Estudante de Engenharia de Software 2º Semestre
+
+- 🌐 Estagiário em Suporte e TI
 
 ![gif1](https://user-images.githubusercontent.com/105741181/180996193-5b71986c-93d8-492e-8c43-c426c9844574.gif)
