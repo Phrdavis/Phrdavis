@@ -1,6 +1,6 @@
 
 
-## <h1 align='center'>Oioi, eu sou o @Phrdavis! 🖖</h1>
+## Oioi, eu sou o @Phrdavis! 🖖
 
 - 💻 Atualmente sou desenvolvedor front-end junior de Python #Tkinter <img align="center" alt="Rosa-Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
