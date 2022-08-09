@@ -13,8 +13,7 @@
 <p align="left">
   
   <a href="https://www.linkedin.com/in/phrdavis/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phrdavis/" /><a/> <a href = "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnZnHHVvqkHrBKVdrgTFpWSMswVDTpHBwFcJtMMQqhkNHXTwrDCxFvlQVqDksjSXmFKTJV"><img src="https://img.shields.io/badge/-Gmail-%3333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phrdavis/" /><a/> 
 
 
 ![gif1](https://user-images.githubusercontent.com/105741181/180996193-5b71986c-93d8-492e-8c43-c426c9844574.gif)
