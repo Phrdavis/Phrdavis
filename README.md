@@ -7,10 +7,10 @@
   
 <h1 align="center">
 Nossa você esta bem??
-Essa pancada foi forte heim<br>
-Tem que tomar mais cuidado...
-Mas já que esta aqui, que tal dar uma<br>
-olhadinha nas informações??</h1>
+Essa pancada foi forte heim
+Tem que tomar mais cuidado...<br>
+Mas já que esta aqui, que tal dar
+uma olhadinha nas informações??</h1>
 <h2 align="center">
 Olá, eu sou o @Phrdavis<br>
 Tenho 20 anos e recentemente
