@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/105741181/186723128-b800d96a-83b7-416b-82de-1a09904fbdd8.gif" alt="Gif Kirby">
+<img src="https://user-images.githubusercontent.com/105741181/186723128-b800d96a-83b7-416b-82de-1a09904fbdd8.gif" alt="Gif Kirby batendo">
   
   <br>
   <br> 
@@ -61,5 +61,5 @@ pode acessar minhas redes sociais :)
 <a href=mailto:davipinheiro.dev@gmail.com><img align="center" alt="Gmail" height="30" width="30" src="https://user-images.githubusercontent.com/105741181/186945008-37f0971d-dac1-45b6-ad16-5566ad16bdad.png"  target="_blank" >@davi.dev</a><br><br>
 
 
-<img height="200" width="200" src="https://user-images.githubusercontent.com/110943818/186932562-f81b3e27-51ff-45d4-bb5f-9f85ff0b5dca.gif">
+<img height="200" width="200" src="https://user-images.githubusercontent.com/110943818/186932562-f81b3e27-51ff-45d4-bb5f-9f85ff0b5dca.gif" alt="Gif Kirby caindo">
 </p>
