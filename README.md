@@ -24,27 +24,27 @@ voltado mais para o Front-end<br>
 <br>
 <br>
 Tenho um grande interesse em me tornar
-um desenvolvedor mobile criando<br>
+um desenvolvedor mobile criando
 aplitativos tanto para Android quanto
 para IOS<br>
 <img align="center" alt="Swift" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">  <img align="center" alt="Kotlin" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
 <br>
 <br>
-Atravez de cursos onlines estou tentando me aperfeiçoar<br>
+Atravez de cursos onlines estou tentando me aperfeiçoar
 em Desenvolvimento Web<br>
 <img align="center" alt="html" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186736946-686aef53-5f73-4939-9dc9-c83a326bdd55.png"> <img align="center" alt="css" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186737108-a99e6669-034b-4548-a7a4-9b34fb4e6b55.png"> <img align="center" alt="javascript" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186737455-4faa2210-df5c-4661-b53c-5e51f4ae6a06.png"> 
 <br>
 <br>
-Trabalho como estagiário de Suporte Técnico<br>
-Isso mesmo que você leu, eu sou o carinha da TI que todo mundo<br>
+Trabalho como estagiário de Suporte Técnico
+Isso mesmo que você leu, eu sou o carinha da TI que todo mundo
 chama quando o computador ta fora da tomada<br>
 <img align="center" alt="suporte" height="50" width="50" src="https://user-images.githubusercontent.com/105741181/186914227-7173dd83-3fb5-4e49-99ec-e8bf3efa0ff1.png")
 <br>
 <br>
 <br>
-Já não bastava ainda ser o estagiário<br>
-que convenhamos, todo mundo sabe que a gente sofre e ainda fazer <br>
-curso online nas horas vagas, para completar o sofrimento estou no <br>
+Já não bastava ainda ser o estagiário
+que convenhamos, todo mundo sabe que a gente sofre e ainda fazer
+curso online nas horas vagas, para completar o sofrimento estou no
 2º Semestre do Curso de Engenharia de Software na faculdade<br>
 <img align="center" alt="faculdade" height="50" width="50" src="https://user-images.githubusercontent.com/105741181/186914700-f4d67c2b-45ab-4d20-9cae-5a5a493078f2.png")
 
