@@ -19,7 +19,7 @@ A PROGRAMAÇÃO!!!<br><br>
 </h2>
 <p align="center">
 Atualmente sou desenvolvedor python junior<br>
-voltado mais para o Front-end<br>
+voltado mais para o Front-end utilizando modulo Tkinter<br>
 <img align="center" alt="Rosa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 <br>
 <br>
