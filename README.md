@@ -35,6 +35,10 @@ em Desenvolvimento Web<br>
 <img align="center" alt="html" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186736946-686aef53-5f73-4939-9dc9-c83a326bdd55.png"> <img align="center" alt="css" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186737108-a99e6669-034b-4548-a7a4-9b34fb4e6b55.png"> <img align="center" alt="javascript" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186737455-4faa2210-df5c-4661-b53c-5e51f4ae6a06.png"> 
 <br>
 <br>
+Atualmente desenvolvo e trabalho dentro desses ambientes de edição de código<br>
+<img align="center" width="35" height="35" src="https://user-images.githubusercontent.com/105741181/187460962-b2631109-4f5a-4486-8492-1f792900940d.png" alt="VScode"><img align="center" height="35" src="https://user-images.githubusercontent.com/105741181/187462245-fc1398b0-e8a1-4203-be9c-feda090f4a72.png">
+<br>
+<br>
 Trabalho como estagiário de Suporte Técnico, isso mesmo que você leu, eu sou o carinha da TI que todo mundo chama quando o computador ta fora da tomada<br>
 <img align="center" alt="suporte" height="50" width="50" src="https://user-images.githubusercontent.com/105741181/186914227-7173dd83-3fb5-4e49-99ec-e8bf3efa0ff1.png")
 <br>
