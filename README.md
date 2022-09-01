@@ -25,12 +25,12 @@ voltado mais para o Front-end utilizando modulo Tkinter<br>
 <br>
 Tenho um grande interesse em me tornar
 um desenvolvedor mobile criando
-aplitativos tanto para Android quanto
+aplicativos tanto para Android quanto
 para IOS<br>
 <img align="center" alt="Swift" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">  <img align="center" alt="Kotlin" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
 <br>
 <br>
-Atravez de cursos onlines estou tentando me aperfeiçoar
+Através de cursos onlines estou tentando me aperfeiçoar
 em Desenvolvimento Web<br>
 <img align="center" alt="html" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186736946-686aef53-5f73-4939-9dc9-c83a326bdd55.png"> <img align="center" alt="css" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186737108-a99e6669-034b-4548-a7a4-9b34fb4e6b55.png"> <img align="center" alt="javascript" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186737455-4faa2210-df5c-4661-b53c-5e51f4ae6a06.png"> 
 <br>
