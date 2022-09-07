@@ -36,7 +36,7 @@ em Desenvolvimento Web<br>
 <br>
 <br>
 Atualmente desenvolvo e trabalho dentro desses ambientes de edição de código<br>
-<img align="center" width="35" height="35" src="https://user-images.githubusercontent.com/105741181/187460962-b2631109-4f5a-4486-8492-1f792900940d.png" alt="VScode"><img align="center" height="35" src="https://user-images.githubusercontent.com/105741181/187462245-fc1398b0-e8a1-4203-be9c-feda090f4a72.png">
+<img align="center" width="35" height="35" src="https://user-images.githubusercontent.com/105741181/187460962-b2631109-4f5a-4486-8492-1f792900940d.png" alt="VScode"> <img align="center" height="35" src="https://user-images.githubusercontent.com/105741181/187462245-fc1398b0-e8a1-4203-be9c-feda090f4a72.png">
 <br>
 <br>
 Trabalho como estagiário de Suporte Técnico, isso mesmo que você leu, eu sou o carinha da TI que todo mundo chama quando o computador ta fora da tomada<br>
