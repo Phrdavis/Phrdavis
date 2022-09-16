@@ -35,8 +35,9 @@ em Desenvolvimento Web<br>
 <img align="center" alt="html" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186736946-686aef53-5f73-4939-9dc9-c83a326bdd55.png"> <img align="center" alt="css" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186737108-a99e6669-034b-4548-a7a4-9b34fb4e6b55.png"> <img align="center" alt="javascript" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186737455-4faa2210-df5c-4661-b53c-5e51f4ae6a06.png"> 
 <br>
 <br>
-Atualmente desenvolvo e trabalho dentro desses ambientes de edição de código<br>
+Atualmente desenvolvo e trabalho dentro desses ambientes de edição de código e imagem<br>
 <img align="center" width="35" height="35" src="https://user-images.githubusercontent.com/105741181/187460962-b2631109-4f5a-4486-8492-1f792900940d.png" alt="VScode"> <img align="center" height="35" src="https://user-images.githubusercontent.com/105741181/187462245-fc1398b0-e8a1-4203-be9c-feda090f4a72.png">
+<img align="center" width="55" src="https://user-images.githubusercontent.com/105741181/190644143-4ac1c232-e07c-412d-aa20-b357e2658ba0.png">
 <br>
 <br>
 Trabalho como estagiário de Suporte Técnico, isso mesmo que você leu, eu sou o carinha da TI que todo mundo chama quando o computador ta fora da tomada<br>
