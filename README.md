@@ -27,7 +27,7 @@ Tenho um grande interesse em me tornar
 um desenvolvedor mobile criando
 aplicativos tanto para Android quanto
 para IOS<br>
-<img align="center" alt="Swift" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">  <img align="center" alt="Kotlin" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
+<img align="center" alt="Swift" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">  <img align="center" alt="Kotlin" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">  <img align="center" alt="Dart" height="30" width="30" src="https://user-images.githubusercontent.com/105741181/194592801-ae302308-4516-4b05-82ff-e588f2a09de9.png"> 
 <br>
 <br>
 Através de cursos onlines estou tentando me aperfeiçoar
