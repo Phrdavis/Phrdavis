@@ -11,16 +11,23 @@ Essa pancada foi forte heim<br>
 Tem que tomar mais cuidado...<br>
 Mas já que esta aqui, que tal dar
 uma olhadinha nas informações??</h1>
+
 <h2 align="center">
 Olá, eu sou o @Phrdavis<br>
 Tenho 20 anos e recentemente
 entrei para o lado negro da força...<br>
 A PROGRAMAÇÃO!!!<br><br>
 </h2>
+
 <p align="center">
 Atualmente sou desenvolvedor python junior<br>
 voltado mais para o Front-end utilizando modulo Tkinter<br>
 <img align="center" alt="Rosa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+<br>
+<br>
+Estou aprendendo a como criar, atualizar e gerenciar Banco de Dados usando MySQL Workbench e Azure Data Studio<br>
+<img align="center" alt="MySQL" height="40" width="40" src="https://user-images.githubusercontent.com/105741181/194877880-0d4951da-945b-4db0-9aa8-f7f12f3f1c9b.png">
+<img align="center" alt="Azure Data Studio" height="40" width="40" src="https://user-images.githubusercontent.com/105741181/194878356-82d48cbd-3199-41f4-a035-4937976c69d1.png">
 <br>
 <br>
 Tenho um grande interesse em me tornar
