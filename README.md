@@ -55,7 +55,7 @@ Trabalho como estagiário de Suporte Técnico, isso mesmo que você leu, eu sou 
 Já não bastava ainda ser o estagiário
 que convenhamos, todo mundo sabe que a gente sofre e ainda fazer
 curso online nas horas vagas, para completar o sofrimento estou no
-2º Semestre do Curso de Engenharia de Software na faculdade<br>
+3º Semestre do Curso de Engenharia de Software na faculdade<br>
 <img align="center" alt="faculdade" height="50" width="50" src="https://user-images.githubusercontent.com/105741181/186914700-f4d67c2b-45ab-4d20-9cae-5a5a493078f2.png")
 
 
