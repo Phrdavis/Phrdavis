@@ -70,7 +70,8 @@ pode acessar minhas redes sociais :)
 <a href="https://www.linkedin.com/in/phrdavis/"><img align="center" alt="Linkedin" height="60" width="60" src="https://user-images.githubusercontent.com/105741181/186735021-2a2cc3e4-8f94-44c2-9d72-a4206fd4538c.png" target="_blank" ></a>
 <a href=mailto:davipi_sou@hotmail.com><img align="center" alt="Outlook" height="60" width="60" src="https://user-images.githubusercontent.com/105741181/186936226-390add12-773e-4aa3-9cc2-d48dcbfafff2.png" target="_blank" ></a>
 <a href=mailto:davipinheiro.dev@gmail.com><img align="center" alt="Gmail" height="60" width="60" src="https://user-images.githubusercontent.com/105741181/186945008-37f0971d-dac1-45b6-ad16-5566ad16bdad.png"  target="_blank" >
-<a href=mailto:davipinheiro.dev@gmail.com><img align="center" alt="Behance" height="60" width="60" src="https://user-images.githubusercontent.com/105741181/225661024-b25e5788-ab5f-47fd-8320-e00a9c92cce1.png"  target="_blank" ></a><br><br>
+<a href=mailto:davipinheiro.dev@gmail.com><img align="center" alt="Behance" height="60" width="60" src="https://user-images.githubusercontent.com/105741181/225661024-b25e5788-ab5f-47fd-8320-e00a9c92cce1.png"  target="_blank" ></a>
+<a href="https://phrdavis.github.io/"><img align="center" alt="Linkedin" height="60" width="60" src="https://user-images.githubusercontent.com/105741181/230102095-193b4950-186b-4263-904f-bf1816ddaa01.png" target="_blank" ></a><br><br>
 
 
 <img height="200" width="200" src="https://user-images.githubusercontent.com/110943818/186932562-f81b3e27-51ff-45d4-bb5f-9f85ff0b5dca.gif" alt="Gif Kirby caindo">
