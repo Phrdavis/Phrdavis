@@ -21,15 +21,12 @@ A PROGRAMAÇÃO!!!<br><br>
 
 <p align="center">
 Atualmente sou desenvolvedor Python e Web junior<br>
-voltado mais para o Front-end<br><br>
+voltado para o Front-end e estudo java nas minhas horas vagas<br><br>
 <img align="center" alt="Rosa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="html" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186736946-686aef53-5f73-4939-9dc9-c83a326bdd55.png"> <img align="center" alt="css" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186737108-a99e6669-034b-4548-a7a4-9b34fb4e6b55.png"> <img align="center" alt="javascript" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186737455-4faa2210-df5c-4661-b53c-5e51f4ae6a06.png"> 
-<br>
-<br>
-<p align="center">
-Estudo java nas minhas horas vagas<br><br>
-<img align="center" alt="Rosa-Python" height="60" width="120" src="https://user-images.githubusercontent.com/105741181/230106335-66a02a23-95f5-4871-a1d4-9eccb8fcae06.png">
+<img align="center" alt="html" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186736946-686aef53-5f73-4939-9dc9-c83a326bdd55.png"> <img align="center" alt="css" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186737108-a99e6669-034b-4548-a7a4-9b34fb4e6b55.png"> <img align="center" alt="javascript" height="35" width="35" src="https://user-images.githubusercontent.com/105741181/186737455-4faa2210-df5c-4661-b53c-5e51f4ae6a06.png"><img align="center" alt="Rosa-Python" height="40" width="40" src="https://user-images.githubusercontent.com/105741181/230134671-564d4d2a-d20e-4551-a3db-d734b8e60406.png">
 
+<br>
+<br>
 <br>
 <br>
 Estou aprendendo a como criar, atualizar e gerenciar Banco de Dados usando MySQL Workbench e Azure Data Studio<br><br>
@@ -38,21 +35,20 @@ Estou aprendendo a como criar, atualizar e gerenciar Banco de Dados usando MySQL
 <br>
 <br>
 Trabalho como estagiário de Suporte Técnico, isso mesmo que você leu, eu sou o carinha da TI que todo mundo chama quando o computador ta fora da tomada<br><br>
-<img align="center" alt="suporte" height="50" width="50" src="https://user-images.githubusercontent.com/105741181/186914227-7173dd83-3fb5-4e49-99ec-e8bf3efa0ff1.png")
+<img align="center" alt="suporte" height="70" width="70" src="https://user-images.githubusercontent.com/105741181/186914227-7173dd83-3fb5-4e49-99ec-e8bf3efa0ff1.png")
 <br>
 <br>
 <br>
 Já não bastava ainda ser o estagiário
-que convenhamos, todo mundo sabe que a gente sofre e ainda fazer
-curso online nas horas vagas, para completar o sofrimento estou no
+que convenhamos, todo mundo sabe que a gente sofre, para completar o sofrimento estou no
 3º Semestre do Curso de Engenharia de Software na faculdade<br><br>
-<img align="center" alt="faculdade" height="50" width="50" src="https://user-images.githubusercontent.com/105741181/186914700-f4d67c2b-45ab-4d20-9cae-5a5a493078f2.png")
+<img align="center" alt="faculdade" height="70" width="70" src="https://user-images.githubusercontent.com/105741181/186914700-f4d67c2b-45ab-4d20-9cae-5a5a493078f2.png")
 
 
 </p>
 <h2 align="center">
 Mas enfim, se ainda quiser saber mais sobre minha vida<br>
-pode acessar minhas redes sociais :)
+pode acessar minhas redes sociais e portifólio online:)
 </h2>
 <p align = "center">
 <a href="https://www.instagram.com/davip27/"><img align="center" alt="Instagram" height="60" width="60" src="https://user-images.githubusercontent.com/105741181/186734770-a7dc1306-bb56-4012-96ee-4c8838a40b39.png" target="_blank" ></a>
