@@ -34,12 +34,12 @@
   <p>😱 Atualmente sou Estagiário em <strong>Suporte de T.I</strong>;</p>
   <p>🧑‍💻 Venho estudando <strong>Desenvolvimento Web</strong> na criação de sites responsivos e adaptativos;</p>
   <p>⚛️ Estou me aventurando pelo Framework <strong>React.JS</strong> e <strong>Node.JS</strong>;</p>
+  <img align="right" alt="Phrdavis"  width="380" src="https://user-images.githubusercontent.com/105741181/232514179-f9c791b7-bbe6-4c6f-832e-b9ba19295346.gif">
   <p>🧑‍💻 Atualizo meu <a href="https://phrdavis.github.io/" target = "_blank">Portifólio Online</a> com frequência para que todos possam ver meu trabalho;</p>
   <p>☕ Adoro um <strong>cafézinho</strong> e <strong>jogos em geral</strong> para descontrair e juntar meus amigos!</p>
 </div>
 
 
-  <img align="right" alt="Phrdavis"  width="380" src="https://user-images.githubusercontent.com/105741181/232514179-f9c791b7-bbe6-4c6f-832e-b9ba19295346.gif">
 <div>
   <br>
   <br>
