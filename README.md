@@ -39,7 +39,6 @@
 </div>
 
 
-  <img align="right" alt="Phrdavis"  width="380" src="https://user-images.githubusercontent.com/105741181/232514179-f9c791b7-bbe6-4c6f-832e-b9ba19295346.gif">
 <div>
   <br>
   <br>
