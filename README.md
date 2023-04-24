@@ -33,7 +33,7 @@
   <br>
   <p>😱 Atualmente sou Estagiário em <strong>Suporte de T.I</strong>;</p>
   <p>🧑‍💻 Venho estudando <strong>Desenvolvimento Web</strong> na criação de sites responsivos e adaptativos;</p>
-  <p>🔛 Estou me aventurando pelos Frameworks <strong>Bootstrap</strong> e strong>Vue</strong> para me tornar realmente um Front-End;</p>
+  <p>🔛 Estou me aventurando pelos Frameworks <strong>Bootstrap</strong> e <strong>Vue</strong> para me tornar realmente um Front-End;</p>
   <p>⌛️ Atualizo meu <a href="https://phrdavis.github.io/" target = "_blank">Portifólio Online</a> com frequência para que todos possam ver meu trabalho, messmso que ainda essteja em fase de desenvolvimento (Talvez eu refaça ele totalmente hehe);</p>
   <p>☕ Adoro um <strong>cafézinho</strong> e <strong>jogos em geral</strong> para descontrair e juntar meus amigos!</p>
 </div>
