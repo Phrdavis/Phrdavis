@@ -67,5 +67,8 @@
 
   ##
 ![snake gif](https://github.com/Phrdavis/Phrdavis/blob/output/github-contribution-grid-snake.svg)
+  
+  
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Phrdavis&color=lightgrey" alt="Profile views"/></p>  
 
 </div>
