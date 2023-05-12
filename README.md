@@ -20,6 +20,7 @@
       <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232483433-bb0fab28-48c5-4c7c-9064-8f73b42473b4.png">
       <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232483786-f190f6a4-181a-4856-8f3e-45c5c5726a0d.png">
       <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232483976-fbb55e92-281f-49b6-9e9b-af5aca1ba116.png">
+      <img alt="Phrdavis" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/aa048755-556d-4493-877f-48ec3f1d2ab2">
       <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232484248-c76e0947-a74b-437c-8e99-dda42470d70a.png">
       <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232484767-9667bd2e-a423-4c8c-b23a-56ed481577d7.png">
       <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232484964-824b58ad-82c4-4143-b475-3965cfc881ca.png">
@@ -34,7 +35,7 @@
   <p>😱 Atualmente sou Estagiário em <strong>Suporte de T.I</strong>;</p>
   <p>🧑‍💻 Venho estudando <strong>Desenvolvimento Web</strong> na criação de sites responsivos e adaptativos;</p>
   <p>🔛 Estou me aventurando pelos Frameworks <strong>Bootstrap</strong> e <strong>Vue</strong> para me tornar realmente um Front-End;</p>
-  <p>⌛️ Atualizo meu <a href="https://phrdavis.github.io/" target = "_blank">Portifólio Online</a> com frequência para que todos possam ver meu trabalho, mesmo que ainda esteja em fase de desenvolvimento (Talvez eu refaça ele totalmente hehe);</p>
+  <p>⌛️ Atualizo meu <a href="https://phrdavis.github.io/" target = "_blank">Portifólio Online</a> com frequência para que todos possam ver meu trabalho, mesmo que ainda esteja em fase de desenvolvimento (Atualmente estou desenvolvendo a versão 2.0 hehe);</p>
   <p>☕ Adoro um <strong>cafézinho</strong> e <strong>jogos em geral</strong> para descontrair e juntar meus amigos!</p>
 </div>
 
