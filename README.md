@@ -17,8 +17,8 @@
     <div>
     <br>
       <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232483238-47afc2ed-3251-4cb3-8364-95619d8b8f35.png">
-      <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232483433-bb0fab28-48c5-4c7c-9064-8f73b42473b4.png">
-      <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232483786-f190f6a4-181a-4856-8f3e-45c5c5726a0d.png">
+      <img alt="Phrdavis" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/a957aaa3-a086-4e8b-ba52-764f2d1ec909">
+      <img alt="Phrdavis" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/8eb6a259-27ad-47cb-9625-31e1692d84d4">
       <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232483976-fbb55e92-281f-49b6-9e9b-af5aca1ba116.png">
       <img alt="Phrdavis" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/aa048755-556d-4493-877f-48ec3f1d2ab2">
       <br>
