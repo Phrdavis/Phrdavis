@@ -43,6 +43,7 @@
   <br> 
   <h3>🏅 Meus próximos desafios</h3>
   <div>
+    <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/687f2747-759b-48cf-8d82-3ebe7767942c"> - Node.js</p>
     <p><img alt="Phrdavis" height="15" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/4854ea5b-3a64-47f2-8dd9-5bc7fb1fe58f"> - Vue Framework</p>
     <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/72b85ba1-2089-4f08-93f3-0ac71e5b8914"> - Postgree DataBase</p>
     <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/79af73bb-83bb-461e-88b0-87c1162fd056"> - Wordpress</p>
