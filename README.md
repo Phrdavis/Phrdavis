@@ -22,9 +22,12 @@
       <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232483976-fbb55e92-281f-49b6-9e9b-af5aca1ba116.png">
       <img alt="Phrdavis" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/aa048755-556d-4493-877f-48ec3f1d2ab2">
       <br>
+      <img alt="Phrdavis" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/7b114ada-b08b-4068-aaf5-477514750c7b">
+      <img alt="Phrdavis" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/40f8d407-bc05-48e5-bc5b-26d68fc7ad24">
       <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232484248-c76e0947-a74b-437c-8e99-dda42470d70a.png">
       <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232484767-9667bd2e-a423-4c8c-b23a-56ed481577d7.png">
       <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232484964-824b58ad-82c4-4143-b475-3965cfc881ca.png">
+      <br>
       <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232485078-ff5aa5e5-a487-40b5-9e3b-3f60c300690a.png">
       <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232485305-ae011511-28b8-40ad-b93c-07939f9173c3.png">
     </div>
@@ -43,10 +46,9 @@
   <br> 
   <h3>🏅 Meus próximos desafios</h3>
   <div>
-    <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/687f2747-759b-48cf-8d82-3ebe7767942c"> - Node.js</p>
-    <p><img alt="Phrdavis" height="15" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/4854ea5b-3a64-47f2-8dd9-5bc7fb1fe58f"> - Vue Framework</p>
-    <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/72b85ba1-2089-4f08-93f3-0ac71e5b8914"> - Postgree DataBase</p>
-    <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/79af73bb-83bb-461e-88b0-87c1162fd056"> - Wordpress</p>
+    <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/d765f8b2-3960-4c75-a715-87931d8a69c6"> - React Framework </p>
+    <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/1fdb3e57-67cd-4f0d-8a5d-2c44ff40942d"> - C# </p>
+    <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/56838f48-fd47-42c5-8bba-b4bfd27cf7f0"> - Unity </p>
   </div>
 </div>
 <div>
