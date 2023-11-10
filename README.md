@@ -33,7 +33,6 @@
     </div>
   </div>
 </div>
-:video_game:
 <div>
   <br>
   <p>😱 Atualmente sou <strong>Desenvolvedor Web Front-End</strong>;</p>
