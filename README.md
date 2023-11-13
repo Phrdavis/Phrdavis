@@ -46,7 +46,6 @@
   <br> 
   <h3>🏅 Meus próximos desafios</h3>
   <div>
-    <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/d765f8b2-3960-4c75-a715-87931d8a69c6"> - React Framework </p>
     <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/1fdb3e57-67cd-4f0d-8a5d-2c44ff40942d"> - C# </p>
     <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/56838f48-fd47-42c5-8bba-b4bfd27cf7f0"> - Unity </p>
   </div>
