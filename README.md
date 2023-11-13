@@ -2,7 +2,7 @@
 <div display = "flex" flex-direction = "row">
   <img align="right" alt="Phrdavis" height="200" width="200" src="https://user-images.githubusercontent.com/105741181/230102095-193b4950-186b-4263-904f-bf1816ddaa01.png">
   <h1>Hello Folks!</h1>
-  <p>Me chamo <strong>Davi Pinheiro de Souza</strong>, tenho 21 anos. Sou estudante de Engenharia de Software e podemos dizer que sou apaixonado por programação, doguinhos e gatitos❤ </p>
+  <p>Me chamo <strong>Davi Pinheiro de Souza</strong>, tenho 21 anos. Sou estudante de Engenharia de Software e podemos dizer que sou apaixonado por programação, jogos, doguinhos e gatitos❤ </p>
   <br>
   <p align="center">
     <img alt="Phrdavis" width="380" src="https://user-images.githubusercontent.com/105741181/232480834-da840e6d-c048-4103-89b9-fb23efb49ba5.gif">
