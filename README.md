@@ -39,7 +39,7 @@
   <p>🧑‍💻 Venho estudando <strong>Desenvolvimento Web</strong> na criação de sites responsivos e adaptativos;</p>
   <p>🔛 Estou me aventurando pelos Frameworks <strong>Bootstrap</strong> e <strong>Node JS</strong> para me tornar realmente um desenvolvedor web completo;</p>
   <p>⌛️ Atualizo meu <a href="https://phrdavis.github.io/" target = "_blank">Portifólio Online</a> com frequência para que todos possam ver meu trabalho, mesmo que ainda esteja em fase de desenvolvimento (Atualmente esta na versão 2.0 hehe);</p>
-  <p>:video_game:Venho me interessando pela <strong>criação de jogos</strong> em 2D e 3D e pretendo fazer uns projetinhos futuramente com a Unity Engine</p>
+  <p>:video_game:Venho me interessando pela <strong>criação de jogos</strong> em 2D e 3D e estou desenvolvendo um mini joguinho 2D com Unity Engine, em breve postarei em alguma plataforma gratuita :)</p>
   <p>☕ Adoro um <strong>cafézinho</strong> e <strong>jogos em geral</strong> para descontrair e juntar meus amigos!</p>
 </div>
 <div>
