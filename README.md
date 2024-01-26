@@ -35,7 +35,7 @@
 </div>
 <div>
   <br>
-  <p>😱 Atualmente sou <strong>Desenvolvedor Web Front-End</strong> mas também estudo um pouco de <strong>Desenvolvedor Web Back-End</strong>;</p>
+  <p>😱 Atualmente sou <strong>Desenvolvedor Web Front-End</strong> mas também estudo um pouco de <strong>Back-End</strong>;</p>
   <p>🧑‍💻 Venho estudando <strong>Desenvolvimento Web</strong> na criação de sites responsivos e adaptativos;</p>
   <p>🔛 Estou me aventurando pelos Frameworks <strong>Bootstrap</strong> e <strong>Node JS</strong> para me tornar realmente um desenvolvedor web completo;</p>
   <p>⌛️ Atualizo meu <a href="https://phrdavis.github.io/" target = "_blank">Portifólio Online</a> com frequência para que todos possam ver meu trabalho, mesmo que ainda esteja em fase de desenvolvimento (Atualmente esta na versão 2.0 hehe);</p>
