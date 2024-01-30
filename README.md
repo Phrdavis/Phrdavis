@@ -35,25 +35,24 @@
 </div>
 <div>
   <br>
-  <p>😱 Atualmente sou <strong>Desenvolvedor Web Front-End</strong> mas também estudo um pouco de <strong>Back-End</strong>;</p>
+  <p>😱 Atualmente sou <strong>Desenvolvedor Web Front-End</strong> mas também me interesso muito por <strong>Back-End</strong> (isso me faz um full stack???? o.O);</p>
   <p>🧑‍💻 Venho estudando <strong>Desenvolvimento Web</strong> na criação de sites responsivos e adaptativos;</p>
-  <p>🔛 Estou me aventurando pelos Frameworks <strong>Bootstrap</strong> e <strong>Node JS</strong> para me tornar realmente um desenvolvedor web completo;</p>
+  <p>🔛 Sou muito fã de <strong>Bootstrap</strong> e atualmente tenho estudando a biblioteca <strong> React JS </strong> para ir cada vez mais além profissionalmente;</p>
   <p>⌛️ Atualizo meu <a href="https://phrdavis.github.io/" target = "_blank">Portifólio Online</a> com frequência para que todos possam ver meu trabalho, mesmo que ainda esteja em fase de desenvolvimento (Atualmente esta na versão 2.0 hehe);</p>
-  <p>:video_game:Venho me interessando pela <strong>criação de jogos</strong> em 2D e 3D e estou desenvolvendo um mini joguinho 2D com Unity Engine, em breve postarei em alguma plataforma gratuita :)</p>
   <p>☕ Adoro um <strong>cafézinho</strong> e <strong>jogos em geral</strong> para descontrair e juntar meus amigos!</p>
 </div>
 <div>
   <br> 
   <h3>🏅 Meus próximos desafios</h3>
   <div>
-    <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/1fdb3e57-67cd-4f0d-8a5d-2c44ff40942d"> - C# </p>
-    <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/56838f48-fd47-42c5-8bba-b4bfd27cf7f0"> - Unity </p>
+    <p><img alt="Phrdavis" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"> - React JS </p>
+    <p><img alt="Phrdavis" height="25" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png"> - Next JS </p>
   </div>
 </div>
 <div>
   <br>
   <br>
-  <p>🔥 Você pode entrar em contato comigo pelo <a href="https://www.instagram.com/davip27/" target = "_blank">Instagram</a> ou por <a href="mailto:davipinheiro.dev@gmail.com?subject=Contact via Github Readme&body=Olá, tudo bem? Acessei seu GitHub e gostaria de entrar em contato!" target = "_blank">E-mail</a>, vou tentar responder o quanto antes e por favor, fique a vontade para conhecer meus projetos aqui do GitHub😄</p>
+  <p>🔥 Você pode entrar em contato comigo pelo <a href="https://www.instagram.com/davip27/" target = "_blank">Instagram</a>, <a href="mailto:davipinheiro.dev@gmail.com?subject=Contact via Github Readme&body=Olá, tudo bem? Acessei seu GitHub e gostaria de entrar em contato!" target = "_blank">E-mail</a> ou <a href="https://www.linkedin.com/in/phrdavis/" target = "_blank">Linkedin</a> vou tentar responder o quanto antes e por favor, fique a vontade para conhecer meus projetos aqui do GitHub😄</p>
 </div>
 
 
