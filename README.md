@@ -37,7 +37,7 @@
   <br>
   <p>😱 Atualmente sou <strong>Desenvolvedor Web Front-End</strong> mas também me interesso muito por <strong>Back-End</strong> (isso me faz um full stack???? o.O);</p>
   <p>🧑‍💻 Venho estudando <strong>Desenvolvimento Web</strong> na criação de sites responsivos e adaptativos;</p>
-  <p>🔛 Sou muito fã de <strong>Bootstrap</strong> e atualmente tenho estudando a biblioteca <strong> React JS </strong> para ir cada vez mais além profissionalmente;</p>
+  <p>🔛 Sou muito fã de <strong>Bootstrap</strong> e atualmente tenho estudando a biblioteca <strong> React JS </strong> e o framework <strong> Springboot </strong> para ir cada vez mais além profissionalmente;</p>
   <p>⌛️ Atualizo meu <a href="https://phrdavis.github.io/" target = "_blank">Portifólio Online</a> com frequência para que todos possam ver meu trabalho, mesmo que ainda esteja em fase de desenvolvimento (Atualmente esta na versão 2.0 hehe);</p>
   <p>☕ Adoro um <strong>cafézinho</strong> e <strong>jogos em geral</strong> para descontrair e juntar meus amigos!</p>
 </div>
@@ -45,6 +45,8 @@
   <br> 
   <h3>🏅 Meus próximos desafios</h3>
   <div>
+    <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/dd12cf05-4f1c-4534-a527-9ad3be882895"> - Java Springboot </p>
+    <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/52862a58-2512-441b-96ce-114cbe80f6a0"> - Docker </p>
     <p><img alt="Phrdavis" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"> - React JS </p>
     <p><img alt="Phrdavis" height="25" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png"> - Next JS </p>
   </div>
