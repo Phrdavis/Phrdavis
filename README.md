@@ -1,6 +1,5 @@
 
 <div display = "flex" flex-direction = "row">
-  <img align="right" alt="Phrdavis" height="200" width="200" src="https://user-images.githubusercontent.com/105741181/230102095-193b4950-186b-4263-904f-bf1816ddaa01.png">
   <h1>Hello Folks!</h1>
   <p>Me chamo <strong>Davi Pinheiro de Souza</strong>, tenho 21 anos. Sou estudante de Engenharia de Software e podemos dizer que sou apaixonado por programação, jogos, doguinhos e gatitos❤ </p>
   <br>
