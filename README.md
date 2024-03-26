@@ -5,38 +5,36 @@
   <br>
   <p align="center">
     <img alt="Phrdavis" width="380" src="https://user-images.githubusercontent.com/105741181/232480834-da840e6d-c048-4103-89b9-fb23efb49ba5.gif">
+    <img alt="Phrdavis" width="380" src="https://user-images.githubusercontent.com/105741181/232514614-209107fb-02c3-45ec-bf4d-52d119a1d015.gif">
   </p>
 </div>
 
 <div>
   <div>
     <br>
-  <img align="right" alt="Phrdavis" width="380" src="https://user-images.githubusercontent.com/105741181/232514614-209107fb-02c3-45ec-bf4d-52d119a1d015.gif">
     <h3>🤖Minhas Tecnologias e Ferramentas:</h3>
     <div>
     <br>
-      <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232483238-47afc2ed-3251-4cb3-8364-95619d8b8f35.png">
-      <img alt="Phrdavis" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/a957aaa3-a086-4e8b-ba52-764f2d1ec909">
-      <img alt="Phrdavis" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/8eb6a259-27ad-47cb-9625-31e1692d84d4">
-      <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232483976-fbb55e92-281f-49b6-9e9b-af5aca1ba116.png">
-      <img alt="Phrdavis" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/aa048755-556d-4493-877f-48ec3f1d2ab2">
-      <br>
-      <img alt="Phrdavis" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/7b114ada-b08b-4068-aaf5-477514750c7b">
-      <img alt="Phrdavis" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/40f8d407-bc05-48e5-bc5b-26d68fc7ad24">
-      <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232484248-c76e0947-a74b-437c-8e99-dda42470d70a.png">
-      <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232484767-9667bd2e-a423-4c8c-b23a-56ed481577d7.png">
-      <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232484964-824b58ad-82c4-4143-b475-3965cfc881ca.png">
-      <br>
-      <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232485078-ff5aa5e5-a487-40b5-9e3b-3f60c300690a.png">
-      <img alt="Phrdavis" height="50" src="https://user-images.githubusercontent.com/105741181/232485305-ae011511-28b8-40ad-b93c-07939f9173c3.png">
+      <img alt="HTML" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/a957aaa3-a086-4e8b-ba52-764f2d1ec909">
+      <img alt="CSS" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/8eb6a259-27ad-47cb-9625-31e1692d84d4">
+      <img alt="JAVASCRIPT" height="50" src="https://user-images.githubusercontent.com/105741181/232483976-fbb55e92-281f-49b6-9e9b-af5aca1ba116.png">
+      <img alt="BOOTSTRAP" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/aa048755-556d-4493-877f-48ec3f1d2ab2">
+      <img alt="PHP" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/7b114ada-b08b-4068-aaf5-477514750c7b">
+      <img alt="JAVA" height="50" src="https://user-images.githubusercontent.com/105741181/232484248-c76e0947-a74b-437c-8e99-dda42470d70a.png">
+      <img alt="PYTHON" height="50" src="https://user-images.githubusercontent.com/105741181/232483238-47afc2ed-3251-4cb3-8364-95619d8b8f35.png">
+      <img alt="MYSQL" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/40f8d407-bc05-48e5-bc5b-26d68fc7ad24">
+      <img alt="AZURE DATA STUDIO" height="50" src="https://user-images.githubusercontent.com/105741181/232485305-ae011511-28b8-40ad-b93c-07939f9173c3.png">
+      <img alt="FIGMA" height="50" src="https://user-images.githubusercontent.com/105741181/232484767-9667bd2e-a423-4c8c-b23a-56ed481577d7.png">
+      <img alt="VISUAL STUDIO CODE" height="50" src="https://user-images.githubusercontent.com/105741181/232484964-824b58ad-82c4-4143-b475-3965cfc881ca.png">
+      <img alt="GITHUB" height="50" src="https://user-images.githubusercontent.com/105741181/232485078-ff5aa5e5-a487-40b5-9e3b-3f60c300690a.png">
     </div>
   </div>
 </div>
 <div>
   <br>
-  <p>😱 Atualmente sou <strong>Desenvolvedor Web Front-End</strong> mas também me interesso muito por <strong>Back-End</strong> (isso me faz um full stack???? o.O);</p>
-  <p>🧑‍💻 Venho estudando <strong>Desenvolvimento Web</strong> na criação de sites responsivos e adaptativos;</p>
-  <p>🔛 Sou muito fã de <strong>Bootstrap</strong> e atualmente tenho estudando a biblioteca <strong> React JS </strong> e o framework <strong> Springboot </strong> para ir cada vez mais além profissionalmente;</p>
+  <p>😱 Atualmente trabalho como <strong>Desenvolvedor Web Full Stack</strong> utilizando <strong>Bootstrap, PHP e MySQL</strong>;</p>
+  <p>🧑‍💻 Venho estudando <strong>React JS e Java Springboot</strong> na criação de API's REST e Endpoints;</p>
+  <p>🔛 Sou muito fã de <strong>Java</strong> e procuro me especializar cada vez mais em <strong>Programação Orientada a Objetos</strong>;</p>
   <p>⌛️ Atualizo meu <a href="https://phrdavis.github.io/" target = "_blank">Portifólio Online</a> com frequência para que todos possam ver meu trabalho, mesmo que ainda esteja em fase de desenvolvimento (Atualmente esta na versão 2.0 hehe);</p>
   <p>☕ Adoro um <strong>cafézinho</strong> e <strong>jogos em geral</strong> para descontrair e juntar meus amigos!</p>
 </div>
