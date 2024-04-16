@@ -20,11 +20,13 @@
       <img alt="BOOTSTRAP" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/aa048755-556d-4493-877f-48ec3f1d2ab2">
       <img alt="PHP" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/7b114ada-b08b-4068-aaf5-477514750c7b">
       <img alt="JAVA" height="50" src="https://user-images.githubusercontent.com/105741181/232484248-c76e0947-a74b-437c-8e99-dda42470d70a.png">
+      <img alt="Springboot" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/dd12cf05-4f1c-4534-a527-9ad3be882895">
       <img alt="PYTHON" height="50" src="https://user-images.githubusercontent.com/105741181/232483238-47afc2ed-3251-4cb3-8364-95619d8b8f35.png">
       <img alt="MYSQL" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/40f8d407-bc05-48e5-bc5b-26d68fc7ad24">
       <img alt="AZURE DATA STUDIO" height="50" src="https://user-images.githubusercontent.com/105741181/232485305-ae011511-28b8-40ad-b93c-07939f9173c3.png">
       <img alt="FIGMA" height="50" src="https://user-images.githubusercontent.com/105741181/232484767-9667bd2e-a423-4c8c-b23a-56ed481577d7.png">
       <img alt="VISUAL STUDIO CODE" height="50" src="https://user-images.githubusercontent.com/105741181/232484964-824b58ad-82c4-4143-b475-3965cfc881ca.png">
+      <img alt="GIT" height="50" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/7c22546a-d785-43a9-92fb-3c247af511d0">
       <img alt="GITHUB" height="50" src="https://user-images.githubusercontent.com/105741181/232485078-ff5aa5e5-a487-40b5-9e3b-3f60c300690a.png">
     </div>
   </div>
@@ -41,10 +43,9 @@
   <br> 
   <h3>🏅 Meus próximos desafios</h3>
   <div>
-    <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/dd12cf05-4f1c-4534-a527-9ad3be882895"> - Java Springboot </p>
-    <p><img alt="Phrdavis" height="20" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/52862a58-2512-441b-96ce-114cbe80f6a0"> - Docker </p>
-    <p><img alt="Phrdavis" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"> - React JS </p>
-    <p><img alt="Phrdavis" height="25" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png"> - Next JS </p>
+    <p><img alt="Docker" height="25" src="https://github.com/Phrdavis/Phrdavis/assets/105741181/80580f4b-fe99-4df5-bacb-357459d537e3"> - Docker </p>
+    <p><img alt="React" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"> - React JS </p>
+    <p><img alt="Next" height="25" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png"> - Next JS </p>
   </div>
 </div>
 <div>
