@@ -63,6 +63,12 @@
   <a href="https://phrdavis.github.io/"><img align="left" alt="Portifólio" height="30" src="https://user-images.githubusercontent.com/105741181/230102095-193b4950-186b-4263-904f-bf1816ddaa01.png"  target="_blank" ></a><br><br>
 </div>
 
+<div align="center">
+
+<a href="https://app.daily.dev/phrdavis"><img src="https://api.daily.dev/devcards/v2/anaH1df7gsjjarscMx2Rw.png?type=wide&r=a34" width="652" alt="Davi Pinheiro de Souza's Dev Card"/></a>
+  
+</div>
+
   ##
   <br>
  <p align="center">
