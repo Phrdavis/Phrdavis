@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<a href="https://app.daily.dev/phrdavis"><img src="./devcard.png" width="652" alt="Davi Pinheiro de Souza's Dev Card"/></a>
+<a href="https://app.daily.dev/phrdavis"><img src="./devcard.png" width="352" alt="Davi Pinheiro de Souza's Dev Card"/></a>
   
 </div>
 
