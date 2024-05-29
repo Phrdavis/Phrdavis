@@ -12,9 +12,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@3.0.0
-        with:
-          user_id: ${{ secrets.USER_ID }}
-          commit_message: "chore: update ${filename}"
-          layout: "wide"
+      - name: Check out the repository
+        uses: actions/checkout@v2
+      
+      - name: Download DevCard
+        run: |
+          curl -o devcard.png "https://devcard-url?username=${{ secrets.USER_ID }}&layout=wide"
+      
+      - name: Commit and push DevCard
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add devcard.png
+          git commit -m "chore: update devcard"
+          git push
