@@ -14,14 +14,14 @@
     <h3>🤖Minhas Tecnologias e Ferramentas:</h3>
     <div>
     <br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,java,spring,python,mysql,azure,figma,vscode,git,github" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,java,spring,python,cs,mysql,azure,figma,vscode,git,github&theme=dark" />
     </div>
   </div>
 </div>
 <div>
   <br>
-  <p>😱 Atualmente trabalho como <strong>Desenvolvedor Web Full Stack</strong> utilizando <strong>Bootstrap, PHP e MySQL</strong>;</p>
-  <p>🧑‍💻 Venho estudando <strong>React JS e Java Springboot</strong> na criação de API's REST e Endpoints;</p>
+  <p>😱 Atualmente trabalho como <strong>Desenvolvedor Web </strong> utilizando <strong>Bootstrap, PHP e MySQL</strong>;</p>
+  <p>🧑‍💻 Venho estudando <strong>C# e .NET</strong> para me especializar em Back-End;</p>
   <p>🔛 Sou muito fã de <strong>Java</strong> e procuro me especializar cada vez mais em <strong>Programação Orientada a Objetos</strong>;</p>
   <p>⌛️ Atualizo meu <a href="https://phrdavis.github.io/" target = "_blank">Portifólio Online</a> com frequência para que todos possam ver meu trabalho, mesmo que ainda esteja em fase de desenvolvimento (Atualmente esta na versão 2.0 hehe);</p>
   <p>☕ Adoro um <strong>cafézinho</strong> e <strong>jogos em geral</strong> para descontrair e juntar meus amigos!</p>
@@ -31,16 +31,16 @@
   <h3>🏅 Meus próximos desafios</h3>
   <div>
     <p>
-      <img height="20" src="https://skillicons.dev/icons?i=docker" /> 
-      - Docker 
+      <img height="20" src="https://skillicons.dev/icons?i=cs" /> 
+      - C# 
     </p>
     <p>
-      <img height="20" src="https://skillicons.dev/icons?i=react" /> 
-      - React JS 
+      <img height="20" src="https://skillicons.dev/icons?i=dotnet" /> 
+      - .NET
     </p>
     <p>
-      <img height="20" src="https://skillicons.dev/icons?i=nextjs" /> 
-      - Next JS 
+      <img height="20" src="https://skillicons.dev/icons?i=cpp" /> 
+      - C++
     </p>
   </div>
 </div>
