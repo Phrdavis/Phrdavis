@@ -18,28 +18,26 @@
 
 - 🧑‍💼 Trabalho como Analista de Suporte e também atuo como Desenvolvedor Web.
 - 💻 Utilizo Angular e Bootstrap no front-end, e PHP, Java, Spring e Spring Boot no back-end.
-- 🎓 Estudante de Engenharia de Software, atualmente no 7º semestre.
+- 🎓 Estudante de Engenharia de Software, atualmente no 8º semestre.
 - 🛠️ Gosto de criar projetos de sites (mesmo sem divulgar muito 😅).
-- 🚀 No momento, estou desenvolvendo um Sistema de Gerenciamento de Eventos usando Angular + PHP.
+- 🚀 No momento, estou desenvolvendo um Sistema de Gerenciamento de Eventos usando Angular + Springboot.
 
 ---
 
 ### 🧰 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,java,spring,cs,python,mysql,azure,dotnet,vscode,figma,git,github&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,angular,php,java,spring&theme=dark" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,python,mysql,azure,dotnet,vscode,figma,git,github&theme=dark" />
+  </a>
+</p>
 ---
-
-<!-- ### 🎯 Meus Próximos Desafios
-
-- 🔧 Aprimorar projetos com **C# e .NET**
-- 💻 Explorar **Node.js e APIs modernas**
-- 🔍 Estudar **C++** voltado para sistemas embarcados
-- 🔄 Integrar automações com **Node-RED** e dispositivos físicos
-
---- -->
 
 ### 🌐 Onde me encontrar
 
